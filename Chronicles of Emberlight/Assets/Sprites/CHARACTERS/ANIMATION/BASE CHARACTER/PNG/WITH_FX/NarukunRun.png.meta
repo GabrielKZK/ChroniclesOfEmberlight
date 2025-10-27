@@ -1,31 +1,37 @@
 fileFormatVersion: 2
-guid: 6e4c42620eae0c44b91e55760aed2e8d
+guid: 9460657ea0c6f5b419fb3f1804729f23
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5953439214378204596
-    second: spr_run_strip8_0
+      213: 678216325271263795
+    second: NarukunRun_0
   - first:
-      213: -6280136552062330883
-    second: spr_run_strip8_1
+      213: -7868831494006010167
+    second: NarukunRun_1
   - first:
-      213: -3401225081984513459
-    second: spr_run_strip8_2
+      213: -4964277603642429611
+    second: NarukunRun_2
   - first:
-      213: 4481555337788123765
-    second: spr_run_strip8_3
+      213: -1588202433076439638
+    second: NarukunRun_3
   - first:
-      213: 4843668030066555173
-    second: spr_run_strip8_4
+      213: -4432734759754051246
+    second: NarukunRun_4
   - first:
-      213: -157426121166356823
-    second: spr_run_strip8_5
+      213: 7229422746468676863
+    second: NarukunRun_5
   - first:
-      213: 3068005875228715020
-    second: spr_run_strip8_6
+      213: -624230327260549637
+    second: NarukunRun_6
   - first:
-      213: 8093356884291522673
-    second: spr_run_strip8_7
+      213: -5093052504580991474
+    second: NarukunRun_7
+  - first:
+      213: -3005782125859112795
+    second: NarukunRun_8
+  - first:
+      213: -7378969218248475864
+    second: NarukunRun_9
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -70,7 +76,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spr_run_strip8_0
+      name: NarukunRun_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 96
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,20 +133,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c424b13c392216da0800000000000000
-      internalID: -5953439214378204596
+      spriteID: 33a1aac8722896900800000000000000
+      internalID: 678216325271263795
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_run_strip8_1
+      name: NarukunRun_1
       rect:
         serializedVersion: 2
-        x: 96
+        x: 128
         y: 0
-        width: 96
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -148,20 +154,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df7d069541978d8a0800000000000000
-      internalID: -6280136552062330883
+      spriteID: 9ce8d52727b4cc290800000000000000
+      internalID: -7868831494006010167
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_run_strip8_2
+      name: NarukunRun_2
       rect:
         serializedVersion: 2
-        x: 192
+        x: 256
         y: 0
-        width: 96
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,41 +175,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4a0a23fecb6cc0d0800000000000000
-      internalID: -3401225081984513459
+      spriteID: 55f277442d75b1bb0800000000000000
+      internalID: -4964277603642429611
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_run_strip8_3
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 0
-        width: 96
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 57aed1ed5dea13e30800000000000000
-      internalID: 4481555337788123765
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_run_strip8_4
+      name: NarukunRun_3
       rect:
         serializedVersion: 2
         x: 384
         y: 0
-        width: 96
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -211,20 +196,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5297806196a283340800000000000000
-      internalID: 4843668030066555173
+      spriteID: aa551114d4295f9e0800000000000000
+      internalID: -1588202433076439638
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_run_strip8_5
+      name: NarukunRun_4
       rect:
         serializedVersion: 2
-        x: 480
+        x: 512
         y: 0
-        width: 96
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -232,20 +217,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9aef281e6c5b0ddf0800000000000000
-      internalID: -157426121166356823
+      spriteID: 251555db833cb72c0800000000000000
+      internalID: -4432734759754051246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_run_strip8_6
+      name: NarukunRun_5
       rect:
         serializedVersion: 2
-        x: 576
+        x: 640
         y: 0
-        width: 96
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,20 +238,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c08a1d9a61fb39a20800000000000000
-      internalID: 3068005875228715020
+      spriteID: ff4f46e4fa1145460800000000000000
+      internalID: 7229422746468676863
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_run_strip8_7
+      name: NarukunRun_6
       rect:
         serializedVersion: 2
-        x: 672
+        x: 768
         y: 0
-        width: 96
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,8 +259,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17098a0b431615070800000000000000
-      internalID: 8093356884291522673
+      spriteID: bfdeb9d13d94657f0800000000000000
+      internalID: -624230327260549637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NarukunRun_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0659023bb7d159b0800000000000000
+      internalID: -5093052504580991474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NarukunRun_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8f2f3f4115946d0800000000000000
+      internalID: -3005782125859112795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NarukunRun_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bf1c96792a89990800000000000000
+      internalID: -7378969218248475864
       vertices: []
       indices: 
       edges: []

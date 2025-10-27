@@ -1,31 +1,37 @@
 fileFormatVersion: 2
-guid: 6e4c42620eae0c44b91e55760aed2e8d
+guid: 8301fda04ddf0c4469d5cfa895e4e957
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5953439214378204596
-    second: spr_run_strip8_0
+      213: -1007937229091186383
+    second: NarutoKunIdle_0
   - first:
-      213: -6280136552062330883
-    second: spr_run_strip8_1
+      213: -5483256324559801519
+    second: NarutoKunIdle_1
   - first:
-      213: -3401225081984513459
-    second: spr_run_strip8_2
+      213: 7185444470433339800
+    second: NarutoKunIdle_2
   - first:
-      213: 4481555337788123765
-    second: spr_run_strip8_3
+      213: -4957808491392775087
+    second: NarutoKunIdle_3
   - first:
-      213: 4843668030066555173
-    second: spr_run_strip8_4
+      213: 6783082757759905658
+    second: NarutoKunIdle_4
   - first:
-      213: -157426121166356823
-    second: spr_run_strip8_5
+      213: 4096964129168346617
+    second: NarutoKunIdle_5
   - first:
-      213: 3068005875228715020
-    second: spr_run_strip8_6
+      213: -2560715455580449772
+    second: NarutoKunIdle_6
   - first:
-      213: 8093356884291522673
-    second: spr_run_strip8_7
+      213: 3538279956167151386
+    second: NarutoKunIdle_7
+  - first:
+      213: 4270485736496863951
+    second: NarutoKunIdle_8
+  - first:
+      213: -5746602101068284525
+    second: NarutoKunIdle_9
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -70,7 +76,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spr_run_strip8_0
+      name: NarutoKunIdle_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 96
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,20 +133,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c424b13c392216da0800000000000000
-      internalID: -5953439214378204596
+      spriteID: 139d0203e661302f0800000000000000
+      internalID: -1007937229091186383
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_run_strip8_1
+      name: NarutoKunIdle_1
       rect:
         serializedVersion: 2
-        x: 96
+        x: 128
         y: 0
-        width: 96
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -148,20 +154,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df7d069541978d8a0800000000000000
-      internalID: -6280136552062330883
+      spriteID: 153f232ac6f87e3b0800000000000000
+      internalID: -5483256324559801519
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_run_strip8_2
+      name: NarutoKunIdle_2
       rect:
         serializedVersion: 2
-        x: 192
+        x: 256
         y: 0
-        width: 96
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -169,41 +175,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d4a0a23fecb6cc0d0800000000000000
-      internalID: -3401225081984513459
+      spriteID: 899597dfca3d7b360800000000000000
+      internalID: 7185444470433339800
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_run_strip8_3
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 0
-        width: 96
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 57aed1ed5dea13e30800000000000000
-      internalID: 4481555337788123765
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: spr_run_strip8_4
+      name: NarutoKunIdle_3
       rect:
         serializedVersion: 2
         x: 384
         y: 0
-        width: 96
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -211,20 +196,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5297806196a283340800000000000000
-      internalID: 4843668030066555173
+      spriteID: 15c4e16d173523bb0800000000000000
+      internalID: -4957808491392775087
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_run_strip8_5
+      name: NarutoKunIdle_4
       rect:
         serializedVersion: 2
-        x: 480
+        x: 512
         y: 0
-        width: 96
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -232,20 +217,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9aef281e6c5b0ddf0800000000000000
-      internalID: -157426121166356823
+      spriteID: a7f2b5274d9522e50800000000000000
+      internalID: 6783082757759905658
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_run_strip8_6
+      name: NarutoKunIdle_5
       rect:
         serializedVersion: 2
-        x: 576
+        x: 640
         y: 0
-        width: 96
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,20 +238,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c08a1d9a61fb39a20800000000000000
-      internalID: 3068005875228715020
+      spriteID: 9fdc8983b275bd830800000000000000
+      internalID: 4096964129168346617
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: spr_run_strip8_7
+      name: NarutoKunIdle_6
       rect:
         serializedVersion: 2
-        x: 672
+        x: 768
         y: 0
-        width: 96
-        height: 64
+        width: 128
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,8 +259,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 17098a0b431615070800000000000000
-      internalID: 8093356884291522673
+      spriteID: 41456434cd2867cd0800000000000000
+      internalID: -2560715455580449772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NarutoKunIdle_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f4a3f9fde7a1130800000000000000
+      internalID: 3538279956167151386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NarutoKunIdle_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca944eb620d34b30800000000000000
+      internalID: 4270485736496863951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NarutoKunIdle_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dbf4cf5d7ff30b0800000000000000
+      internalID: -5746602101068284525
       vertices: []
       indices: 
       edges: []

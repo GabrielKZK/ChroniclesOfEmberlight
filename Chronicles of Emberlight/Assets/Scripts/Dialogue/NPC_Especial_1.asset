@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: NPC_Especial_1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSettings
+  actor: {fileID: 5428606981035478931, guid: 2e87c94eccebd8b4fa84c3a09aa87c49, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: John Snown
+    profile: {fileID: -4030792056451597264, guid: 8f8423e3dd7928d4e9c5a790773be4e9, type: 3}
+    sentence:
+      portuguese: "Ei, voc\xEA t\xE1 treinando sozinho por aqui?"
+      english: 
+      spanish: 
+  - actorName: Naruto
+    profile: {fileID: -1007937229091186383, guid: 8301fda04ddf0c4469d5cfa895e4e957, type: 3}
+    sentence:
+      portuguese: "Hehe, sempre! Um ninja de verdade nunca para de treinar! Mesmo
+        quando o mundo acha que ele j\xE1 venceu!"
+      english: 
+      spanish: 
+  - actorName: John Snown
+    profile: {fileID: -5365564782989775432, guid: 8f8423e3dd7928d4e9c5a790773be4e9, type: 3}
+    sentence:
+      portuguese: "Voc\xEA parece bem confiante."
+      english: 
+      spanish: 
+  - actorName: Naruto
+    profile: {fileID: -5483256324559801519, guid: 8301fda04ddf0c4469d5cfa895e4e957, type: 3}
+    sentence:
+      portuguese: "Claro que eu sou! Eu sou Naruto Uzumaki, o futuro Hokage da Vila
+        da Folha! \u2026ou, bom\u2026 algo parecido com isso por aqui."
+      english: 
+      spanish: 
+  - actorName: John Snown
+    profile: {fileID: 6715623495978055766, guid: 8f8423e3dd7928d4e9c5a790773be4e9, type: 3}
+    sentence:
+      portuguese: "\u201CHokage\u201D, hein? Ent\xE3o voc\xEA \xE9 tipo\u2026 o l\xEDder
+        dessa vila?"
+      english: 
+      spanish: 
+  - actorName: Naruto
+    profile: {fileID: -4957808491392775087, guid: 8301fda04ddf0c4469d5cfa895e4e957, type: 3}
+    sentence:
+      portuguese: "Ainda n\xE3o! Mas um dia vou ser! E pra isso eu preciso ficar
+        cada vez mais forte \u2014 tanto no corpo quanto no cora\xE7\xE3o!"
+      english: 
+      spanish: 
+  - actorName: John Snown
+    profile: {fileID: -4501305681423134738, guid: 8f8423e3dd7928d4e9c5a790773be4e9, type: 3}
+    sentence:
+      portuguese: "Parece que voc\xEA leva isso a s\xE9rio."
+      english: 
+      spanish: 
+  - actorName: Naruto
+    profile: {fileID: 6783082757759905658, guid: 8301fda04ddf0c4469d5cfa895e4e957, type: 3}
+    sentence:
+      portuguese: "Quando voc\xEA promete algo pra si mesmo, n\xE3o pode desistir\u2026
+        nunca! E voc\xEA? O que t\xE1 procurando nesse lugar?"
+      english: 
+      spanish: 
+  - actorName: John Snown
+    profile: {fileID: -4501305681423134738, guid: 8f8423e3dd7928d4e9c5a790773be4e9, type: 3}
+    sentence:
+      portuguese: "Talvez a mesma coisa que voc\xEA\u2026 um motivo pra continuar
+        lutando."
+      english: 
+      spanish: 
+  - actorName: Naruto
+    profile: {fileID: 6783082757759905658, guid: 8301fda04ddf0c4469d5cfa895e4e957, type: 3}
+    sentence:
+      portuguese: "Heh\u2026 ent\xE3o acho que a gente vai se dar bem, John Snown."
+      english: 
+      spanish: 
+  - actorName: Naruto
+    profile: {fileID: 4096964129168346617, guid: 8301fda04ddf0c4469d5cfa895e4e957, type: 3}
+    sentence:
+      portuguese: "Mas tenta me alcan\xE7ar primeiro, se conseguir!"
+      english: 
+      spanish: 
